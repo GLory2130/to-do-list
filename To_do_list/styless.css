@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#taskInput {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#addTaskButton {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #6c757d;
+}
